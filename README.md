@@ -11,7 +11,7 @@ As a data analyst, gain insights on the folowings.
 3. Optimize advertising strategies 
 
 ## Data
-Searching keywords data scraped by third parties from Amazon (csv). 
+Searching keywords data scraped by third parties from Amazon (xlsx). 
 
 ## Analytics 
 
